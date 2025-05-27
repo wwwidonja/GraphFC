@@ -1,5 +1,5 @@
 # GraphFC
-A supplementary repository to the masters thesis 'An Analysis of Player-Formation Graphs for Predicting Football Passes'. Get the thesis by clicking the **[link here](https://repozitorij.uni-lj.si/Dokument.php?id=195768&lang=slv)**
+A supplementary repository to the masters thesis 'An Analysis of Player-Formation Graphs for Predicting Football Passes'. Get the thesis by clicking the **[link here](https://repozitorij.uni-lj.si/Dokument.php?id=195768&lang=slv)!**
 
 Reproducibility steps:
 1. Create a Python environment.
